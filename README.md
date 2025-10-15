@@ -1,4 +1,4 @@
-# scalable_api_ts
+# ts-express-prisma-crud
 
 To install dependencies:
 
